@@ -11,10 +11,7 @@ import java.awt.Point;
 import java.awt.Rectangle;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author wsl nly
- */
+
 public class MovingChecker extends MovingShape{
     
     private int horizontalNumBlock, verticalNumBlock; //assignment description

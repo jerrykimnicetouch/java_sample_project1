@@ -17,10 +17,6 @@ import java.awt.Shape;
 import java.awt.geom.GeneralPath;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author wsl nly
- */
 public class MovingShapePattern extends MovingShape{
     
     int radius;

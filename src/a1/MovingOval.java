@@ -10,10 +10,6 @@ import java.awt.Graphics;
 import java.awt.Point;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author wsl nly
- */
 public class MovingOval extends MovingShape{
     
     public MovingOval(){

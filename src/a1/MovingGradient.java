@@ -13,10 +13,6 @@ import java.awt.Point;
 import java.awt.Rectangle;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author wsl nly
- */
 public class MovingGradient extends MovingShape{
     
    
